@@ -1,0 +1,74 @@
+{
+	"info": {
+		"_postman_id": "b2cbbd5b-32fa-440f-abe0-0d98367d8292",
+		"name": "Petstore API Testleri",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47323619"
+	},
+	"item": [
+		{
+			"name": "Get Pets - Available",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Pet by ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Add New Pet - emres-dog (ID: 9999)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Add New Pet - emres-cat (ID: 9998)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PUT Request – 9999 numaralı hayvanı güncelle",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PUT Request – 9999 numaralı hayvanı tekrar güncelle",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE – 9999 ID’li hayvanı sil",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE – 9998 ID’li hayvanı sil",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
